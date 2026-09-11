@@ -1,3 +1,4 @@
+
 [package]
 name = "nexora"
 version = "0.1.0"
@@ -8,4 +9,4 @@ name = "nexora"
 crate-type = ["cdylib"]
 
 [dependencies]
-solana-program = "1.18.0"
+anchor-lang = "0.30.1"
