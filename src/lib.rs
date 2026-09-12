@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("YOUR_PROGRAM_ID");
+declare_id!("Bassxf6opGq61Br6BrKDyfU3SCdWEdC7RN8gcZpRGpCB");
 
 #[program]
 pub mod nexora {
